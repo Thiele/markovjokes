@@ -1,5 +1,5 @@
 # Markov joke generator
-A script that generates jokes from different sources. Depends on markovify, installable with pip.
+A script that generates jokes from different sources. Depends on [markovify](https://github.com/jsvine/markovify), installable with pip.
 
 The sources are stupidstuff.json, wocka.json and reddit_jokes.json from [this repository](https://github.com/taivop/joke-dataset), and the script expects the files to be placed in the same directory as the script.
 
