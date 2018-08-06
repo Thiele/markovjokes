@@ -5,4 +5,4 @@ The sources are stupidstuff.json, wocka.json and reddit_jokes.json from [this re
 
 The script generates a new json-formatted file, generated_jokes.json. A sample of generated jokes can be found in [generated_jokes.json](generated_jokes.json).
 
-For a more thorough walk-through, see [this blogpost](https://medium.com/p/4d118238be69/)
+For a more thorough walk-through, see [this blogpost](https://medium.com/@andreasthiele/an-irishman-walks-out-of-a-bar-he-was-brought-to-the-closest-hospital-quickly-4d118238be69)
